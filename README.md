@@ -93,10 +93,6 @@ Avg Monthly Charges (Retained) =
 CALCULATE(AVERAGE(ChurnData[MonthlyCharges]), ChurnData[Churn] = "No")
 
 
-[![Dashboard Screenshot](Dashboard%20Screenshot.png)](Dashboard%20Screenshot.png)
-
-
-
 ---
 
 ## ✅ Key Insights
@@ -112,7 +108,6 @@ CALCULATE(AVERAGE(ChurnData[MonthlyCharges]), ChurnData[Churn] = "No")
 - Visual storytelling with charts & slicers
 
 ---
-
 
 ## 📁 Files Included
 | File Name | Description |
