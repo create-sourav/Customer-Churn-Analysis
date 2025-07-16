@@ -1,5 +1,4 @@
- 
-# 📊 Customer Churn Analysis – Power BI Project
+ # 📊 Customer Churn Analysis – Power BI Project
 
 **Domain**: Telecom  
 **Tool Used**: Power BI  
