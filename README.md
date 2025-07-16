@@ -14,7 +14,8 @@ To identify the key reasons for customer churn in a telecom company and deliver 
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard.png)
+[![Dashboard Screenshot](dashboard.png)](dashboard.png)
+
 
 ---
 
