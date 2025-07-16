@@ -108,6 +108,10 @@ CALCULATE(AVERAGE(ChurnData[MonthlyCharges]), ChurnData[Churn] = "No")
 - Visual storytelling with charts & slicers
 
 ---
+## 🧠 Conclusion
+This dashboard effectively demonstrates the impact of churn and the associated risk to revenue. As a Business Analyst, you have successfully visualized problem areas and laid the foundation for customer retention strategy through meaningful insights.
+
+---
 
 ## 📁 Files Included
 | File Name | Description |
